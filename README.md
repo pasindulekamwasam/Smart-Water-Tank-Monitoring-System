@@ -703,6 +703,7 @@ Each team member developed deep expertise in their assigned area while contribut
 *Individual sensor installations in water tank*
 
 ![Circuit Board](images/esp32-connections.png)
+
 *ESP32 and circuit connections* 
 
 ### Development Process
