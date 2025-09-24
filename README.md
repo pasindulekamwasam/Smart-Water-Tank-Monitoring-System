@@ -81,11 +81,8 @@ This project addresses critical challenges in traditional water tank management 
 
 ## 🏗️ System Architecture
 ### System Diagram
-```
-[Water Tank] → [Sensors] → [ESP32] → [WiFi] → [Blynk App] → [User Mobile Device]
-     ↓             ↓          ↓
-[Pump Control] ← [Relay] ← [Logic Processing]
-```
+![Complete System Diagram](images/system-diagram.png)
+
 
 ### Data Flow
 1. **Sensors collect data:** Water level, quality, and flow rate
@@ -528,10 +525,6 @@ This project demonstrates **effective teamwork** where individual specialization
 - Water conservation benefits
 - Time savings from automation
 
-## 📸 Project System Diagram
-![Complete System Diagram](images/system-diagram.png)
-
-
 ## 🔮 Future Enhancements
 ### Proposed Advanced Features
 - [ ] **📊 Machine Learning Analytics** for predictive maintenance and usage patterns  
@@ -708,8 +701,9 @@ Each team member developed deep expertise in their assigned area while contribut
 
 ![Component Installation/System Integration](images/sensors-installed.jpg)
 *Individual sensor installations in water tank*
+
 ![Circuit Board](images/esp32-connections.png)
- *ESP32 and circuit connections* 
+*ESP32 and circuit connections* 
 
 ### Development Process
 ![Team Working](images/team-development.jpg)
