@@ -528,14 +528,9 @@ This project demonstrates **effective teamwork** where individual specialization
 - Water conservation benefits
 - Time savings from automation
 
-## 📸 Project Gallery
-```
-[Add photos of your actual project here]
-- Circuit setup
-- LCD display showing readings
-- Complete assembled system
-- Demo video (if available)
-```
+## 📸 Project System Diagram
+![Complete System Diagram](images/system-diagram.png)
+
 
 ## 🔮 Future Enhancements
 ### Proposed Advanced Features
@@ -702,24 +697,21 @@ Each team member developed deep expertise in their assigned area while contribut
 ## 📸 Project Gallery
 
 ### System Overview
-![Complete System Setup](images/system-overview/complete-setup.jpg)
+![Complete System Setup](images/complete-setup.jpg)
 *Complete water tank monitoring system with all components integrated*
 
-### Mobile Application
-<div align="center">
-<img src="images/mobile-app/dashboard.jpg" alt="Mobile Dashboard" width="300">
-<img src="images/mobile-app/alerts.jpg" alt="Alert System" width="300">
-</div>
-*Blynk mobile app dashboard showing real-time monitoring and alert system*
+### Mobile/Web Application
+![Web Dashboard](images/Blynk-dashboard.jpg)
+*Blynk mobile app dashboard showing real-time monitoring and alert system* 
 
 ### Hardware Implementation
 | Component Installation | System Integration |
 |----------------------|-------------------|
-| ![Sensor Setup](images/sensor-details/sensors-installed.jpg) | ![Circuit Board](images/sensor-details/esp32-connections.jpg) |
+| ![Sensor Setup](images/sensors-installed.jpg) | ![Circuit Board](images/esp32-connections.png) |
 | *Individual sensor installations in water tank* | *ESP32 and circuit connections* |
 
 ### Development Process
-![Team Working](images/team-photos/team-development.jpg)
+![Team Working](images/team-development.jpg)
 *Y1S1Mtr6 team during hardware integration and testing phase*
 
 ## 🛡️ Troubleshooting
