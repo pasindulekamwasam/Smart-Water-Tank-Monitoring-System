@@ -701,14 +701,15 @@ Each team member developed deep expertise in their assigned area while contribut
 *Complete water tank monitoring system with all components integrated*
 
 ### Mobile/Web Application
-![Web Dashboard](images/Blynk-dashboard.jpg)
+![Web Dashboard](images/Blynk-Dashboard.jpg)
 *Blynk mobile app dashboard showing real-time monitoring and alert system* 
 
 ### Hardware Implementation
-| Component Installation | System Integration |
-|----------------------|-------------------|
-| ![Sensor Setup](images/sensors-installed.jpg) | ![Circuit Board](images/esp32-connections.png) |
-| *Individual sensor installations in water tank* | *ESP32 and circuit connections* |
+
+![Component Installation/System Integration](images/sensors-installed.jpg)
+*Individual sensor installations in water tank*
+![Circuit Board](images/esp32-connections.png)
+ *ESP32 and circuit connections* 
 
 ### Development Process
 ![Team Working](images/team-development.jpg)
