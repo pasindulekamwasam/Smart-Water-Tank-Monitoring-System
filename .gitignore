@@ -1,0 +1,22 @@
+# Credentials - keep private
+config.h
+secrets.h
+credentials.h
+
+# Arduino build files
+*.hex
+*.bin
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
