@@ -722,17 +722,6 @@ Each team member developed deep expertise in their assigned area while contribut
 ![Team Working](images/team-photos/team-development.jpg)
 *Y1S1Mtr6 team during hardware integration and testing phase*
 
-### Testing & Results
-<div align="center">
-<img src="images/testing-results/lcd-display.jpg" alt="LCD Display" width="400">
-<img src="images/testing-results/water-quality-test.jpg" alt="Water Quality" width="400">
-</div>
-*LCD display showing system status and water quality testing results*
-
-### Final Presentation
-![Presentation Setup](images/team-photos/final-presentation.jpg)
-*Project demonstration during final presentation at SLIIT*
-
 ## 🛡️ Troubleshooting
 | Issue | Possible Cause | Solution |
 |-------|---------------|----------|
