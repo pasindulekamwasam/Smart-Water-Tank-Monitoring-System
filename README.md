@@ -116,7 +116,7 @@ This project addresses critical challenges in traditional water tank management 
 ### Software Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pasindumadhusara/Smart-Water-Tank-Monitoring-System.git
+   git clone https://github.com/pasindulekamwasam/Smart-Water-Tank-Monitoring-System.git
    cd Smart-Water-Tank-Monitoring-System
    ```
 
