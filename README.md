@@ -479,7 +479,7 @@ Our team adopted a **component-based development strategy** where each member sp
 - **📏 Distance Measurement** (Nanayakkara Y.S.): Ultrasonic sensor algorithms and water level calculation  
 - **📺 User Interface** (Wijesekara M.G.N.L.): LCD display management and buzzer alert patterns
 - **📱 IoT Integration** (Chamila A.L.G.): Blynk platform setup and mobile app development
-- **🧪 Water Quality Analysis** (Patabendi M.K.K.): TDS sensor calibration and quality assessment
+- **🧪 Water Quality Analysis** (Patabendi M.K.K.): TDS sensor calibration and measurement
 - **🔬 Turbidity Measurement** (Lekamwasam N.L.P.M.): Turbidity sensor implementation and system integration
 
 **Hardware Integration Process:**
