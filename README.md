@@ -4,19 +4,19 @@
 An intelligent IoT-based water tank monitoring system that provides real-time monitoring of water levels, water quality assessment, automated pump control, and remote monitoring capabilities through mobile applications.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Features](#features)
-- [Components Used](#components-used)
-- [System Architecture](#system-architecture)
-- [Installation & Setup](#installation--setup)
-- [How It Works](#how-it-works)
-- [Usage](#usage)
-- [Team Members](#team-members)
-- [Evaluation Methods](#evaluation-methods)
-- [Budget](#budget)
-- [Future Enhancements](#future-enhancements)
-- [References](#references)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Features](#-features)
+- [Components Used](#-components-used)
+- [System Architecture](#-system-architecture)
+- [Installation & Setup](#-installation--setup)
+- [How It Works](#-how-it-works)
+- [Usage](#-usage)
+- [Team Members](#-team-members)
+- [Evaluation Methods](#-evaluation-methods)
+- [Budget](#-budget)
+- [Future Enhancements](#-future-enhancements)
+- [References](#-references)
 
 ## 🎯 Overview
 This project addresses critical challenges in traditional water tank management systems including water wastage, pump damage from dry running, power consumption inefficiencies, and water quality concerns. Our smart monitoring system provides automated solutions for residential and industrial water management.
